@@ -7,7 +7,7 @@ Cube LED 4x4x4 : https://www.instructables.com/id/4x4x4-LED-Cube-Arduino-Uno/
 - [ ] Charger code
 - [ ] Fini
 
-![Imade Cube 4x4x4](https://github.com/arnaudm63/arduino/edit/master/Cube%204x4x4/FKIYHFNHX7PAJZD.LARGE.jpg)
+![Image Cube 4x4x4](https://github.com/arnaudm63/arduino/edit/master/Cube%204x4x4/FKIYHFNHX7PAJZD.LARGE.jpg)
 
 **Connection Setup:**
 **Colonnes**
